@@ -3,11 +3,16 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Eric Abreu Gualberto de Moura 
+Matricula: 889897
 
 ## Tela de inspeção com navegador
 
+![IMAGEM] (printcrunchyroll.png)
 
 ## Tela de projeto no Replit
+
+![IMAGEM] (helloworldconsole.png)
+
+![IMAGEM] (helloworldprojeto.png)
 
