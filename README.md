@@ -8,11 +8,11 @@ Matricula: 889897
 
 ## Tela de inspeção com navegador
 
-![IMAGEM] (printcrunchyroll.png)
+![IMAGEM](printcrunchyroll.png)
 
 ## Tela de projeto no Replit
 
-![IMAGEM] (helloworldconsole.png)
+![IMAGEM](helloworldconsole.png)
 
-![IMAGEM] (helloworldprojeto.png)
+![IMAGEM](helloworldprojeto.png)
 
